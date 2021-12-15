@@ -1,12 +1,19 @@
+
+/* for card images */
+
 .img-responsive{
     width: 50%;
     margin-left: auto;
     margin-right: auto;   
 }
 
+/* for card title */
+
 .card-title{
     text-align: center;
 }
+
+/*for key features card  */
 
 .keyCard{ 
         width: 18rem;
@@ -16,10 +23,34 @@
     border-radius: 35px;
     }
 
+/* for key features div */
+
 .keydiv{
     background-color: #ffb845;
 }
+
 .keyContainer{
     padding-top: 55px;
     padding-bottom: 55px;
+}
+.impDiv{
+    
+    height: 48vh;
+    width: 94vh;
+}
+.colTxt{
+    padding: 62px;
+    margin-left: 290px;
+}
+
+.Text{
+    color: blueviolet;
+}
+
+.animCard:hover{
+    z-index: 1;
+    box-shadow: 2px 2px 2px 2px ;
+    transform: translateY(5px);
+    transition: .5s ease-in;
+    
 }

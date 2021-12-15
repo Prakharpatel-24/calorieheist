@@ -12,9 +12,9 @@ export default class Login extends Component {
 
                             <div class="card mx-3 " style={{ width: "18rem" }}>
                                 <div class="card-body ">
+
+                                    {/* Login form  */}
                                     <form>
-
-
                                         <div className="form-group">
                                             <label>Email address</label>
                                             <input type="email" className="form-control" placeholder="Enter email" />
@@ -24,20 +24,12 @@ export default class Login extends Component {
                                             <label>Password</label>
                                             <input type="password" className="form-control" placeholder="Enter password" />
                                         </div>
-
-                                        {/* <div className="form-group">
-                                    <div className="custom-control custom-checkbox">
-                                    <input type="checkbox" className="custom-control-input" id="customCheck1" />
-                                        <label className="custom-control-label" htmlFor="customCheck1">Remember me</label>
-                                    </div>
-                                </div> */}
-
                                         <button type="submit" className="btn btn-primary btn-block my-2">Submit</button>
                                         <p className="forgot-password text-right">
                                             <a href="/signup">Sign Up</a>
                                         </p>
                                     </form>
-
+                                    {/* ---- */}
                                 </div>
                             </div>
                         </div>

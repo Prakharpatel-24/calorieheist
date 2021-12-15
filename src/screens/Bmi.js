@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Container, Row, Col, url } from "react-bootstrap";
 import './Bmi.css'
 
+// function for bmi calculation
 
 const Bmi = () => {
     const [bmi, setBmi] = useState();
@@ -32,6 +33,9 @@ const Bmi = () => {
 
                         <div class="card mx-3 " style={{ width: "20rem" }}>
                             <div class="card-body">
+
+                                {/* Height and weight input fields */}
+
                                 <Col>
                                     <Row>
                                         <h5>Height:</h5>
@@ -50,6 +54,8 @@ const Bmi = () => {
                                         />
                                     </Row>
                                 </Col>
+
+                                {/* Button to calculate bmi */}
 
                                 <button class="btn btn-primary my-2" onClick={handleBmi}>Calculate</button>
                                 <h5>{bmi}</h5>
