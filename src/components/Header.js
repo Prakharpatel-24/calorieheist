@@ -12,7 +12,7 @@ const Header = () => {
 
                 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                     <div class="container-fluid">
-                        <a class="navbar-brand" href="#">Navbar</a>
+                        <a class="navbar-brand" href="#">Calorie-Hiest</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -28,9 +28,7 @@ const Header = () => {
                                 <li class="nav-item">
                                     <Link class="nav-link" to="/login">Login/Sign Up</Link>
                                 </li>
-                                {/* <li class="nav-item">
-                                    <Link class="nav-link" to="/signup">Sign Up</Link>
-                                </li> */}
+
                                 <li class="nav-item">
                                     <Link class="nav-link" to="/bmi">BMI Calculator</Link>
                                 </li>
