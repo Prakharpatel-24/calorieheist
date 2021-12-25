@@ -65,8 +65,10 @@ const Homescreen = () => {
                                 </figure>
                             </div>
                             <div className='col-lg-6 col-md-6 col-12 col-xxl-6 d-flex justify-content-center align-items-start flex-column'>
-                                <h1>My Journey</h1>
-                                <p>Lorem Ipsum is simply dummy text of the printing when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                <h1>Our Journey</h1>
+                                <p>Launched in 2021, CalorieHiest is an online calorie and exercise tracker with over 1000 members worldwide. The average active member loses 1.4 pounds a week, and about 27 pounds total.
+
+                                    MyNetDiary guides your weight loss journey with accurate calorie counting, weight loss forecasting and personalized daily insights.</p>
                                 <button type="button" className='btn btn-outline-info'>Explore More</button>
                             </div>
                         </div>
@@ -79,7 +81,7 @@ const Homescreen = () => {
 
                 <section className='main_heading my-5 '>
                     <div className='text-center'>
-                        <h2 className='display'>About Us</h2>
+                        <h2 className='display'>Benefits</h2>
                         <hr className='w-25 mx-auto' />
                     </div>
                     <div className='container'>
@@ -123,7 +125,7 @@ const Homescreen = () => {
 
                 <section className='main_heading my-5 '>
                     <div className='text-center' data-aos="fade-up" data-aos-offset="200">
-                        <h2 className='display'>Latest Products</h2>
+                        <h2 className='display'>Premium Recipes</h2>
                         <hr className='w-25 mx-auto' />
                     </div>
                     <div className='container'>
@@ -217,7 +219,7 @@ const Homescreen = () => {
                             <h3 >Testimonials</h3>
                         </div>
                         <div class="col-md-12 d-flex justify-content-center">
-                            <h2>Explore the students experience</h2>
+                            <h2>Explore the users experience</h2>
                         </div>
                     </div>
                     <div class="container-fluid">
@@ -228,30 +230,30 @@ const Homescreen = () => {
                                     <div class="col-md-4 style-3">
                                         <div class="tour-item ">
                                             <div class="tour-desc bg-white">
-                                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                                <div class="tour-text color-grey-3 text-center">“LOST 71 LB (35%) AND MAINTAINED
+                                                    AFTER 492 DAYS.”</div>
                                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/6625914/pexels-photo-6625914.jpeg" alt="" /></div>
                                                 <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                                <div class="link-position d-flex justify-content-center">Student</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-4 style-3">
                                         <div class="tour-item ">
                                             <div class="tour-desc bg-white">
-                                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                                <div class="tour-text color-grey-3 text-center">“LOST 71 LB (35%) AND MAINTAINED
+                                                    AFTER 492 DAYS.”</div>
                                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" /></div>
-                                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                                <div class="link-position d-flex justify-content-center">Student</div>
+                                                <div class="link-name d-flex justify-content-center">Maria</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-4 style-3">
                                         <div class="tour-item ">
                                             <div class="tour-desc bg-white">
-                                                <div class="tour-text color-grey-3 text-center">“At this School, our mission is to balance a rigorous comprehensive college preparatory curriculum with healthy social and emotional development.”</div>
+                                                <div class="tour-text color-grey-3 text-center">“LOST 71 LB (35%) AND MAINTAINED
+                                                    AFTER 492 DAYS.”</div>
                                                 <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people" src="https://images.pexels.com/photos/4946604/pexels-photo-4946604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="" /></div>
-                                                <div class="link-name d-flex justify-content-center">Balbir Kaur</div>
-                                                <div class="link-position d-flex justify-content-center">Student</div>
+                                                <div class="link-name d-flex justify-content-center">Julie</div>
                                             </div>
                                         </div>
                                     </div>

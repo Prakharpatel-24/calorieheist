@@ -45,8 +45,6 @@ const Login = () => {
                         <div className="card mx-3 " style={{ width: "18rem" }}>
                             <div className="card-body ">
 
-
-
                                 <form onSubmit={handleSubmit}>
                                     <div className="form-group">
                                         <label htmlFor="email">Email address</label>
