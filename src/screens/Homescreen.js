@@ -39,19 +39,7 @@ const Homescreen = () => {
 
 
             <Container>
-                {/* <Row className='my-3'>
-                    <Col>
-                        <div class="card mx-3 " style={{ width: "18rem" }}>
-                            <img src="../../images/cc.jpg" class="card-img-top impDiv" />
-                        </div>
-                    </Col>
-                    <Col className='colTxt'>
-                        <h2 className='Text'>Best Calorie Manager</h2>
-                        <h3>Best Platform which helps you to track your Calorie intake.
-                        </h3>
-                        <h2 style={{ color: 'green' }}>Stay Fit and Healthy!</h2>
-                    </Col>
-                </Row> */}
+
                 <section className='main_heading my-5 '>
                     <div className='text-center'>
                         <h2 className='display' data-aos="fade-up" data-aos-offset="200">About Us</h2>

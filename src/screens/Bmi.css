@@ -8,3 +8,19 @@
     /* margin-top: 20%; */
     padding: 20px;
 }
+.gCard{
+    background: #FF416C;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+	background: linear-gradient(to right, #FF4B2B, #FF416C);
+}
+
+button.ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+    /* margin-bottom: 5px; */
+    margin-top: 14px;
+    width: 100%;
+}
+button.ghost :hover{
+    background-color: white;
+}

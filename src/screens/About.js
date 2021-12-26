@@ -12,7 +12,7 @@ function About() {
                     <div className='row'>
                         <div className='col-lg-6 col-md-6 col-12 col-xxl-6'>
                             <figure>
-                                <img src="../../images/pasta.jpg" alt='about food' className='img-fluid about_img' />
+                                <img src="../../images/pasta.jpg" alt='about food' className='img-fluid about_img' style={{ height: '48vh', width: "100%" }} />
                             </figure>
                         </div>
                         <div className='col-lg-6 col-md-6 col-12 col-xxl-6 d-flex justify-content-center align-items-start flex-column'>
